@@ -23,8 +23,8 @@ def graficar_tiempos(lista_metodos_ord):
     plt.title('Comparación de tiempos de ordenamiento')
     plt.legend() # para mostrar el nombre del método de ordenamiento. Es el "label" del metodo plot
     plt.grid() # cuadriculado
-    plt.show()
-    
+
+
     
     
 if __name__ == '__main__':
